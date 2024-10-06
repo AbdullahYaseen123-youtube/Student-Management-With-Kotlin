@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48161162337",
+    "firebase_url": "https://socialmediaapp-cc574-default-rtdb.firebaseio.com",
+    "project_id": "socialmediaapp-cc574",
+    "storage_bucket": "socialmediaapp-cc574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48161162337:android:7c49e6866f8daf08d61620",
+        "android_client_info": {
+          "package_name": "com.example.insertdatastudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48161162337-5gmgm5951l63bsnbgpg53t42m785u6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKx0dZNLsvTA3rp6ax-ksre6uJBPhpZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48161162337-5gmgm5951l63bsnbgpg53t42m785u6ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
